@@ -24,7 +24,7 @@ Pentru implementare am folosit limbajul Assembly, mai exact, compilatorul uasm32
 2. cd până în directorul clonat /dodge-and-reach
 3. 'start Bochs-2.6.9.exe' în cmd și instalarea programului în același folder
 
-Folder-ul /dodge-and-reach ar trebui să arate în felul următor:<br>
+Folder-ul /dodge-and-reach ar trebui să conțină obligatoriu următoarele fișiere:<br>
 ![](Images/image1.png)
 
 ### Executare în Windows
