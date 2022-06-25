@@ -1,0 +1,4 @@
+# what disk image will be used 
+floppya: 1_44=dodge_and_reach.bin, status=inserted 
+# choose the boot disk. 
+boot: a 
